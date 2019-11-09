@@ -5,29 +5,30 @@
     "Mensaje": "TOKEN NO ENCONTRADO",
     "ahorros": [
         {
-         "cuenta": 4587582,
-         "tipo": "Normal",   
+         "numero": 4587582,
+         "tipo": "Ahorro Normal",   
           "balance": 78456.23 
         },
         {
-         "cuenta": 789563,
-         "tipo": "Viajes",   
+         "numero": 789563,
+         "tipo": "Ahorro Viajes",   
           "balance": 50789.23 
         },
         {
-         "cuenta": 784569,
-         "tipo": "Especial",   
+         "numero": 784569,
+         "tipo": "Ahorro Especial",   
           "balance": 25412.46 
         }    
     
     ],
     "arrPrestamos": [
         {
-         "prestamo": 47125,
+         "numero": 47125,
+          "tipo": "Prestamo"
          "tasa": 17.2,
          "cuotas": 12,
          "monto": 150000,
-         "pendiente": 75000   
+         "balance": 75000   
         }
     
     ]
