@@ -22,22 +22,7 @@
     
     ],
     "arrPrestamos": [
-        {
-         "numero": 47125,
-          "tipo": "Prestamo vehiculo",
-         "tasa": 17.2,
-         "cuotas": 12,
-         "monto": 150000,
-         "balance": 75000   
-        },
-        {
-         "numero": 484525,
-          "tipo": "Prestamo Hipotecario",
-         "tasa": 17.2,
-         "cuotas": 12,
-         "monto": 150000,
-         "balance": 75000   
-        }
+ 
     
     ]
         }
