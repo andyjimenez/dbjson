@@ -1,6 +1,10 @@
 {
+    "consulta":[
+    {
     "Resultado": 0,
     "Mensaje": "TOKEN NO ENCONTRADO",
     "ahorros": [],
     "arrPrestamos": []
+    }
+    ]
 }
