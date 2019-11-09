@@ -6,19 +6,19 @@
     "ahorros": [
    {
       "numero": 4587582,
-      "tipo": "Ahorro",
+      "tipo": "ahorro",
        "subtipo": "Normal",
       "balance": 78456.23
     },
     {
       "numero": 789563,
-      "tipo": "Ahorro",
+      "tipo": "ahorro",
       "subtipo": "Viajes",
       "balance": 50789.23
     },
     {
       "numero": 784569,
-      "tipo": "Ahorro",
+      "tipo": "ahorro",
        "subtipo": "Especial",
       "balance": 25412.46
     }
@@ -27,7 +27,7 @@
     "arrPrestamos": [
   {
       "numero": 47125,
-      "tipo": "Prestamo",
+      "tipo": "prestamo",
       "subtipo": "Vehiculo",
       "tasa": 17.2,
       "cuotas": 12,
@@ -36,7 +36,7 @@
     },
     {
       "numero": 484525,
-      "tipo": "Prestamo",
+      "tipo": "prestamo",
       "subtipo": "Hipotecario",  
       "tasa": 17.2,
       "cuotas": 12,
