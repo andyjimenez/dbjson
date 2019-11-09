@@ -7,19 +7,19 @@
    {
       "numero": 4587582,
       "tipo": "Ahorro",
-       "subtipo": "Normal"
+       "subtipo": "Normal",
       "balance": 78456.23
     },
     {
       "numero": 789563,
       "tipo": "Ahorro",
-      "subtipo": "Viajes"
+      "subtipo": "Viajes",
       "balance": 50789.23
     },
     {
       "numero": 784569,
       "tipo": "Ahorro",
-       "subtipo": "Especial"
+       "subtipo": "Especial",
       "balance": 25412.46
     }
     
