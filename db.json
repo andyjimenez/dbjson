@@ -6,12 +6,31 @@
     "ahorros": [
         {
          "cuenta": 4587582,
-         "balance": 78456.23
-            
+         "tipo": "Normal",   
+          "balance": 78456.23 
+        },
+        {
+         "cuenta": 789563,
+         "tipo": "Viajes",   
+          "balance": 50789.23 
+        },
+        {
+         "cuenta": 784569,
+         "tipo": "Especial",   
+          "balance": 25412.46 
         }    
     
     ],
-    "arrPrestamos": []
+    "arrPrestamos": [
+        {
+         "prestamo": 47125,
+         "tasa": 17.2,
+         "cuotas": 12,
+         "monto": 150000,
+         "pendiente": 75000   
+        }
+    
+    ]
     }
     ]
 }
