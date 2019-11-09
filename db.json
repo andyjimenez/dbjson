@@ -3,7 +3,14 @@
     {
     "Resultado": 0,
     "Mensaje": "TOKEN NO ENCONTRADO",
-    "ahorros": [],
+    "ahorros": [
+        {
+         "cuenta": 4587582,
+         "balance": 78456.23
+            
+        }    
+    
+    ],
     "arrPrestamos": []
     }
     ]
