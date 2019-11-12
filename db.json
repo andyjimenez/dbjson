@@ -10,7 +10,103 @@
     "mensaje": "PROCESO EXITOSO",
     "token": "8CHVebRnMZQ0rUIQjxbKstYvy6qmoK"
      },
-    
+    "consulta_prestamo" :
+   {
+    "Resultado": 1,
+    "Mensaje": "PROCESO EXISTOSO",
+    "prestam": [
+        {
+            "nCuota": 571,
+            "nMto_aprobado": 13020,
+            "nMto_solicitado": 13020,
+            "nSaldo": 1160,
+            "nO_cuotas": 24,
+            "nUmero_cuenta": 102863,
+            "nTasa_interes": 5,
+            "dFecha_aprob": "2017-12-15",
+            "dFecha_desem": "2017-12-15",
+            "dFecha_soclic": "2017-12-15",
+            "dUltimo_movim": "2019-10-25",
+            "sDescripcion": "",
+            "sObservaciones": ""
+        },
+        {
+            "nCuota": 1140,
+            "nMto_aprobado": 25990,
+            "nMto_solicitado": 25990,
+            "nSaldo": 7860,
+            "nO_cuotas": 24,
+            "nUmero_cuenta": 110525,
+            "nTasa_interes": 5,
+            "dFecha_aprob": "2018-05-25",
+            "dFecha_desem": "2018-05-25",
+            "dFecha_soclic": "2018-05-25",
+            "dUltimo_movim": "2019-10-25",
+            "sDescripcion": "",
+            "sObservaciones": ""
+        },
+        {
+            "nCuota": 24901,
+            "nMto_aprobado": 1500000,
+            "nMto_solicitado": 1500000,
+            "nSaldo": 1286472,
+            "nO_cuotas": 84,
+            "nUmero_cuenta": 111490,
+            "nTasa_interes": 10,
+            "dFecha_aprob": "2018-06-18",
+            "dFecha_desem": "2018-06-28",
+            "dFecha_soclic": "2018-06-18",
+            "dUltimo_movim": "2019-10-25",
+            "sDescripcion": "",
+            "sObservaciones": ""
+        },
+        {
+            "nCuota": 1195,
+            "nMto_aprobado": 72000,
+            "nMto_solicitado": 72000,
+            "nSaldo": 61750,
+            "nO_cuotas": 84,
+            "nUmero_cuenta": 111492,
+            "nTasa_interes": 10,
+            "dFecha_aprob": "2018-06-18",
+            "dFecha_desem": "2018-06-28",
+            "dFecha_soclic": "2018-06-18",
+            "dUltimo_movim": "2019-10-25",
+            "sDescripcion": "",
+            "sObservaciones": ""
+        },
+        {
+            "nCuota": 461,
+            "nMto_aprobado": 5385,
+            "nMto_solicitado": 5385,
+            "nSaldo": 1378,
+            "nO_cuotas": 12,
+            "nUmero_cuenta": 122200,
+            "nTasa_interes": 5,
+            "dFecha_aprob": "2019-01-18",
+            "dFecha_desem": "2019-01-18",
+            "dFecha_soclic": "2019-01-18",
+            "dUltimo_movim": "2019-10-25",
+            "sDescripcion": "",
+            "sObservaciones": ""
+        },
+        {
+            "nCuota": 3602,
+            "nMto_aprobado": 21000,
+            "nMto_solicitado": 21000,
+            "nSaldo": 10711,
+            "nO_cuotas": 6,
+            "nUmero_cuenta": 130642,
+            "nTasa_interes": 10,
+            "dFecha_aprob": "2019-07-11",
+            "dFecha_desem": "2019-07-11",
+            "dFecha_soclic": "2019-07-11",
+            "dUltimo_movim": "2019-10-25",
+            "sDescripcion": "",
+            "sObservaciones": ""
+        }
+    ]
+},
     "consulta":
         {
     "Resultado": 0,
