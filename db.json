@@ -1,9 +1,15 @@
 {
+   "login": {
+    "resultado": 1,
+    "mensaje": "PROCESO EXITOSO",
+    "token": "8CHVebRnMZQ0rUIQjxbKstYvy6qmoK"
+     },
+    
     "consulta":
         {
     "Resultado": 0,
     "Mensaje": "TOKEN NO ENCONTRADO",
-   "ahorros": [
+    "ahorros": [
         {
             "id_cuenta": 64456236,
             "Tipo": "APORTACIONES",
