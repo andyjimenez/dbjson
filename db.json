@@ -1,4 +1,10 @@
 {
+   
+   "logout": {
+    "resultado": 0,
+    "mensaje": "ERROR MENSAJE",
+    "token": ""
+     },
    "login": {
     "resultado": 1,
     "mensaje": "PROCESO EXITOSO",
