@@ -5,21 +5,21 @@
     "Mensaje": "TOKEN NO ENCONTRADO",
    "ahorros": [
         {
-            "id_cuenta": 64,
+            "id_cuenta": 64456236,
             "Tipo": "APORTACIONES",
             "categoria": "ahorro",
             "Cuota": 2091,
             "Balance": 572724.83
         },
         {
-            "id_cuenta": 2369,
+            "id_cuenta": 236945623,
             "Tipo": "AHORRO 5%",
             "categoria": "ahorro",
             "Cuota": 0,
             "Balance": 130
         },
         {
-            "id_cuenta": 4585,
+            "id_cuenta": 458545632,
             "Tipo": "DEPOSITO",
             "categoria": "ahorro",
             "Cuota": 0,
