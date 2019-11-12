@@ -3,47 +3,75 @@
         {
     "Resultado": 0,
     "Mensaje": "TOKEN NO ENCONTRADO",
-    "ahorros": [
-   {
-      "numero": 4587582,
-      "tipo": "ahorro",
-       "subtipo": "Normal",
-      "balance": 78456.23
-    },
-    {
-      "numero": 789563,
-      "tipo": "ahorro",
-      "subtipo": "Viajes",
-      "balance": 50789.23
-    },
-    {
-      "numero": 784569,
-      "tipo": "ahorro",
-       "subtipo": "Especial",
-      "balance": 25412.46
-    }
-    
+   "ahorros": [
+        {
+            "id_cuenta": 64,
+            "Tipo": "APORTACIONES",
+            "Cuota": 2091,
+            "Balance": 572724.83
+        },
+        {
+            "id_cuenta": 2369,
+            "Tipo": "AHORRO 5%",
+            "Cuota": 0,
+            "Balance": 130
+        },
+        {
+            "id_cuenta": 4585,
+            "Tipo": "DEPOSITO",
+            "Cuota": 0,
+            "Balance": 200
+        },
+        {
+            "id_cuenta": 25246,
+            "Tipo": "EXCEDENTES DISTRIBUIDOS",
+            "Cuota": 0,
+            "Balance": 0
+        }
     ],
     "arrPrestamos": [
-  {
-      "numero": 47125,
-      "tipo": "prestamo",
-      "subtipo": "Vehiculo",
-      "tasa": 17.2,
-      "cuotas": 12,
-      "monto": 150000,
-      "balance": 75000
-    },
-    {
-      "numero": 484525,
-      "tipo": "prestamo",
-      "subtipo": "Hipotecario",  
-      "tasa": 17.2,
-      "cuotas": 12,
-      "monto": 150000,
-      "balance": 75000
-    }
-    
+        {
+            "Id_prestamo": 102863,
+            "Tipo": "PRESTAMO ENSERES",
+            "Plazo": 24,
+            "Saldo": 1160.96,
+            "dFecha_termino": "2019-12-15"
+        },
+        {
+            "Id_prestamo": 110525,
+            "Tipo": "PRESTAMO ENSERES",
+            "Plazo": 24,
+            "Saldo": 7860.59,
+            "dFecha_termino": "2020-05-25"
+        },
+        {
+            "Id_prestamo": 111490,
+            "Tipo": "PRESTAMO NORMAL L.P.",
+            "Plazo": 84,
+            "Saldo": 1286472.25,
+            "dFecha_termino": "2025-06-28"
+        },
+        {
+            "Id_prestamo": 111492,
+            "Tipo": "PRESTAMO NORMAL L.P.",
+            "Plazo": 84,
+            "Saldo": 61750.59,
+            "dFecha_termino": "2025-06-28"
+        },
+        {
+            "Id_prestamo": 122200,
+            "Tipo": "PRESTAMOS SEGUROS VEHICULOS",
+            "Plazo": 12,
+            "Saldo": 1378.34,
+            "dFecha_termino": "2020-01-18"
+        },
+        {
+            "Id_prestamo": 130642,
+            "Tipo": "PRESTAMO EXPRESO",
+            "Plazo": 6,
+            "Saldo": 10711.63,
+            "dFecha_termino": "2020-01-11"
+        }
     ]
         }
     
