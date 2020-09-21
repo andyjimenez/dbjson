@@ -39,11 +39,7 @@
     "mensaje": "Proceso Exitoso",
     "pin": "1801"
      },
-   "logout": {
-    "resultado": 0,
-    "mensaje": "ERROR MENSAJE",
-    "token": ""
-     },
+
    "login": {
     "resultado": 1,
     "mensaje": "PROCESO EXITOSO",
