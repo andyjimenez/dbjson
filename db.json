@@ -36,7 +36,7 @@
 },
       "Alta_Socio": {
     "resultado": 1,
-    "mensaje": ""Proceso Exitoso",
+    "mensaje": "Proceso Exitoso",
     "pin": "1801"
      },
    "logout": {
