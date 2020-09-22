@@ -1,38 +1,9 @@
 {
-   "disponibilidad": 
+   "cambio_clave": 
    {
     "Resultado": 1,
     "Mensaje": "PROCESO EXISTOSO",
-    "dispon": [
-        {
-            "sTipo_ptmo": "Normal",
-            "sObserv": "Revise si la suma de su balance de Préstamo Normal y Gerencial es mayor que el valor de sus aportes",
-            "xDerecho": 1718174.49,
-            "xBce": 1348222.84,
-            "xDispon": 0
-        },
-        {
-            "sTipo_ptmo": "Gerencial",
-            "sObserv": "Revise si la suma de su balance de Préstamo Gerencial, Normal y Enseres es mayor que sus Aportes",
-            "xDerecho": 572724.83,
-            "xBce": 0,
-            "xDispon": 0
-        },
-        {
-            "sTipo_ptmo": "Enseres",
-            "sObserv": "",
-            "xDerecho": 257726.1735,
-            "xBce": 9021.55,
-            "xDispon": 248704.6235
-        },
-        {
-            "sTipo_ptmo": "Expreso",
-            "sObserv": "",
-            "xDerecho": 30000,
-            "xBce": 10711.63,
-            "xDispon": 19288.37
-        }
-    ]
+    "pin": ""
 },
       "Alta_Socio": {
     "Resultado": 1,
