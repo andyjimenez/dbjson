@@ -40,11 +40,11 @@
     "pin": "1801"
      },
 
-   "login": {
-    "resultado": 1,
-    "mensaje": "PROCESO EXITOSO",
-    "token": "8CHVebRnMZQ0rUIQjxbKstYvy6qmoK"
-     },
+   "Reset_Password": {
+    "Resultado": 1,
+    "Mensaje": "Proceso Exitoso",
+    "pin": ""
+},
     "consulta_prestamo" :
    {
     "Resultado": 1,
